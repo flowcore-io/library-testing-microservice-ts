@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/flowcore-io/library-testing-microservice-ts/compare/v1.0.0...v1.1.0) (2022-12-30)
+
+
+### Features
+
+* added readme to package ([8ae61c5](https://github.com/flowcore-io/library-testing-microservice-ts/commit/8ae61c5d2a37b71efd96fe7217db6b33a7e75ff8))
+
 ## 1.0.0 (2022-12-30)
 
 
