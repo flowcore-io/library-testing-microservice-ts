@@ -1,0 +1,12 @@
+#nonk8s
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: testing-microservice
+  description: Testing library for facilitating tests for the @flowcore/microservice modules
+  annotations:
+    github.com/project-slug: flowcore-io/library-testing-microservice-ts
+spec:
+  type: library
+  owner: backend
+  lifecycle: experimental
