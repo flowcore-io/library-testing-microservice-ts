@@ -20,7 +20,7 @@ yarn add @jbiskur/nestjs-test-utilities @flowcore/testing-microservice -D
 
 ## Usage
 
-to use the library you can use it with the `NestJSApplicationBuilder`
+to use the library you can use it with the `NestApplicationBuilder`
 
 ```typescript
 import {LoggerModulePlugin} from "@flowcore/testing-microservice";
