@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.0.0 (2022-12-30)
+
+
+### Features
+
+* added logger module plugin ([8640aa2](https://github.com/flowcore-io/library-testing-microservice-ts/commit/8640aa26dd7ee718a3f2964f0ed9246f16ee9a66))
+
+
+### Bug Fixes
+
+* added missing github token to ci ([cfeac89](https://github.com/flowcore-io/library-testing-microservice-ts/commit/cfeac893f6043b46ba0fe04424c015af440bdd0e))
+* fixed bugs introduced with incompatibilities with github actions and nunjucks ([f8b4ca3](https://github.com/flowcore-io/library-testing-microservice-ts/commit/f8b4ca3553b824d4f8a49eab3425831674a45ad3))
+
 ## [2.3.0](https://github.com/flowcore-io/library-flowcore-microservice-ts/compare/v2.2.0...v2.3.0) (2022-12-21)
 
 
