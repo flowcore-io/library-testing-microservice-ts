@@ -6,6 +6,9 @@ metadata:
   description: Testing library for facilitating tests for the @flowcore/microservice modules
   annotations:
     github.com/project-slug: flowcore-io/library-testing-microservice-ts
+  links:
+    - url: https://www.npmjs.com/package/@flowcore/testing-microservice
+      title: Library NPM Link
 spec:
   type: library
   owner: backend
