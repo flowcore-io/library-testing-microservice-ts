@@ -2,7 +2,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: testing-microservice
+  name: testing-flowcore-microservice
   description: Testing library for facilitating tests for the @flowcore/microservice modules
   annotations:
     github.com/project-slug: flowcore-io/library-testing-microservice-ts
