@@ -467,10 +467,10 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@flowcore/microservice@3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@flowcore/microservice/-/microservice-3.0.0.tgz#212db201ca87dc5b390eec1f28410c419b69a218"
-  integrity sha512-/SFebfhI3LXwLu9dkIO9DPDw2qYDEpXZp0RggeL8cakXiQt1yrbutxF42t/AF7B6SHvwLjyrEMfKgA1kfaRxEw==
+"@flowcore/microservice@3.1.1":
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/@flowcore/microservice/-/microservice-3.1.1.tgz#2bfe29ed073fc100cb57eb24001b4002ba58c340"
+  integrity sha512-2YDVHVsC77CdF+7yG2DiCRZFSufA5nW3bjtjL/cFtta01HgbqYiS21b0OgFyC5Pr73v2fX+gGjW3UpsOrDGE0g==
   dependencies:
     "@golevelup/nestjs-discovery" "3.0.0"
     "@jbiskur/nestjs-async-module" "3.11.0"
