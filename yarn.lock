@@ -548,10 +548,10 @@
     cross-fetch "3.0.6"
     nanoid "3.1.25"
 
-"@jbiskur/nestjs-test-utilities@3.11.0":
-  version "3.11.0"
-  resolved "https://registry.yarnpkg.com/@jbiskur/nestjs-test-utilities/-/nestjs-test-utilities-3.11.0.tgz#6a26a927605947adbf9b3fd903700e26c3a735a1"
-  integrity sha512-2ZK9U/pl1nnt3R3BylKqfpjwnVrkK/fFNUz2bqsSJVMbCmFwm1YHADxJXTNFRwLcExJ1w+geKIA2NU0OU95I6w==
+"@jbiskur/nestjs-test-utilities@3.13.0":
+  version "3.13.0"
+  resolved "https://registry.yarnpkg.com/@jbiskur/nestjs-test-utilities/-/nestjs-test-utilities-3.13.0.tgz#58836ce414823bb9b29788b391f10e53b1c7bdba"
+  integrity sha512-wkuDK1aUrHUKuRMfrntL9swVMLWe/PxlUnwMqLXj3Z3BwYzKgoKrqMWwg8ndQBxR1Nj0KtztPlxrCubqQoJZPQ==
   dependencies:
     cross-fetch "3.0.6"
 
