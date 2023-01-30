@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "@flowcore/microservice": "3.1.1",
-    "@jbiskur/nestjs-test-utilities": "3.11.0",
+    "@jbiskur/nestjs-test-utilities": "4.0.2",
     "@nestjs/cli": "9.1.9",
     "@nestjs/common": "9.2.1",
     "@nestjs/core": "9.2.1",
